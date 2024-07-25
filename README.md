@@ -86,3 +86,8 @@ public static void Main(string[] args)
     Console.WriteLine($"Input: {input4} => Output: {output4} \n");
 }
 ```
+# License
+This project is licensed under the MIT License. See "LICENSE.txt" for more information.
+
+#Contributing
+Contributions are welcome! Please fork the repo and open a pull request to add functionality or to fix bugs as necessary.
