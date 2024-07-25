@@ -31,6 +31,12 @@ namespace OldPhonePadCodingChallenge
             string input4 = "55544466887777 083322244 084447 7777#";
             string output4 = OldPhonePadMethod(input4);
             Console.WriteLine($"Input: {input4} => Output: {output4} \n");
+
+            //Test case 5
+            Console.WriteLine("The Author of this code is: \n");
+            string input5 = "5337773369990 333 33777662663 339999";
+            string output5 = OldPhonePadMethod(input5);
+            Console.WriteLine($"Input: {input5} => Output: {output5} \n");
         }
         public static string OldPhonePadMethod(string input)
         {
