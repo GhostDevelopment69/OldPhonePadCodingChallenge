@@ -89,5 +89,5 @@ public static void Main(string[] args)
 # License
 This project is licensed under the MIT License. See "LICENSE.txt" for more information.
 
-#Contributing
+# Contributing
 Contributions are welcome! Please fork the repo and open a pull request to add functionality or to fix bugs as necessary.
