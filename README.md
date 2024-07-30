@@ -86,6 +86,25 @@ public static void Main(string[] args)
     Console.WriteLine($"Input: {input4} => Output: {output4} \n");
 }
 ```
+
+# Unit Tests
+This project includes unit tess to verify the functionality of the `OldPhonePadMethod`. The tests are written in xUnit and can be found in the `OldPhonePadUnitTests` project.
+
+You can change the unit tests or add any to your hearts desire.
+
+## Prerequisites to run the Unit Tests
+These prerequisites can be obtained from Windows NuGet by Right-clicking on `OldPhonePadUnitTests` and selecting `Manage NuGet Packages`.
+
+- `xunit`
+- `xunit.runner.visualstudio`
+- `Microsoft.NET.Test.Sdk`
+
+## Running the Unit Tests
+1. Build the Solution:
+   - In Visual Studio, go to `Build` > `Build Solution` or press `Ctrl+Shift+B`.
+2. Run the Tests:
+   - In Visual Studio, go to `Test` > `Run All Tests` or press `Ctrl+R, A`.
+
 # License
 This project is licensed under the MIT License. See "LICENSE.txt" for more information.
 
