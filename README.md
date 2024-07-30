@@ -105,6 +105,8 @@ These prerequisites can be obtained from Windows NuGet by Right-clicking on `Old
 2. Run the Tests:
    - In Visual Studio, go to `Test` > `Run All Tests` or press `Ctrl+R, A`.
 
+
+![Successful Unit Tests](https://github.com/GhostDevelopment69/OldPhonePadCodingChallenge/blob/master/TestSuccess.png?raw=true)
 # License
 This project is licensed under the MIT License. See "LICENSE.txt" for more information.
 
